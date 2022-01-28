@@ -2,7 +2,7 @@
 This is a mentored build, thus follow the instructor's instructions/questions during the class block. You **MUST** be present in class to get a grade for this assignment. Being in attendance does not gaurantee you a grade for this assignment.
 
 ## Instructions
-As this is a mentored build, you will be guided through the majority of the build. You will be prompted for suggestions, which may or may not work, and guided to a _correct_ solution for this build. You are also responsible for completing the build once your instructor has guided you to a point in the build where you can apply the concepts covered so far.
+As this is a mentored build, you will be guided through the majority of the build. You will be prompted for suggestions, which may or may not work, and guided to a _correct_ solution for this build. You are also responsible for completing the build once your instructor has guided you to a point in the build where you can apply the concepts covered so far. This build may take more than 1 class to complete.
 
 This is to be a **responsive design**.
 
